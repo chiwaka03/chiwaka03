@@ -8,7 +8,7 @@ Con una base en ciberseguridad y un enfoque en el desarrollo backend como junior
 
 *   🖥️  Mira mi portfolio! [MiPortfolio](https://aitor-portfolio.vercel.app/)
 *   🚀  Actualmente trabajando en [Portfolio-in-React](http://github.com/chiwaka03/Portfolio-in-React)
-*   🧠  Aprendiendo React
+*   🧠  Aprendiendo Spring Boot
   
   ### HABILIDADES 
 <p align="left">
