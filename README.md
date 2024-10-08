@@ -7,8 +7,7 @@ Junior Backend Developer
 Con una base en ciberseguridad y un enfoque en el desarrollo backend como junior, estoy entusiasmado por crecer en un entorno desafiante y aprender de profesionales experimentados.
 
 *   🖥️  Mira mi portfolio! [MiPortfolio](https://aitor-portfolio.vercel.app/)
-*   🚀  Actualmente trabajando en [Portfolio-in-React](http://github.com/chiwaka03/Portfolio-in-React)
-*   🧠  Aprendiendo Spring Boot
+*   🧠  Aprendiendo C++
   
   ### HABILIDADES 
 <p align="left">
